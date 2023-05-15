@@ -4,14 +4,18 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: #d1f6ff;
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    background-color: rgba(192, 233, 247, 0.623);
+}
+
+footer p{
+    text-align: center;
 }
 
 @media screen and (min-width: 992px) {
